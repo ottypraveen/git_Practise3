@@ -12,6 +12,8 @@ public class TestCase9 {
 		System.out.println("changed4s");
 		System.out.println("changeds");
 		System.out.println("changed6s");
+		System.out.println("changed6s");
+		System.out.println("changed6s");
 		
 
 
