@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-23T00:37:14 IST" name="Suite" finished-at="2022-06-23T00:38:57 IST" duration-ms="102975">
+    <groups>
+    </groups>
+    <test started-at="2022-06-23T00:37:14 IST" name="TestCase1" finished-at="2022-06-23T00:38:27 IST" duration-ms="73264">
+      <class name="Academy.testCase1">
+        <test-method is-config="true" signature="getInitializeTestCase()[pri:0, instance:Academy.testCase1@2a54a73f]" started-at="2022-06-23T00:37:14 IST" name="getInitializeTestCase" finished-at="2022-06-23T00:38:02 IST" duration-ms="48752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getInitializeTestCase -->
+        <test-method signature="getTestCase1()[pri:0, instance:Academy.testCase1@2a54a73f]" started-at="2022-06-23T00:38:02 IST" name="getTestCase1" finished-at="2022-06-23T00:38:08 IST" duration-ms="5044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestCase1 -->
+        <test-method is-config="true" signature="getTeardown()[pri:0, instance:Academy.testCase1@2a54a73f]" started-at="2022-06-23T00:38:08 IST" name="getTeardown" finished-at="2022-06-23T00:38:27 IST" duration-ms="19449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTeardown -->
+      </class> <!-- Academy.testCase1 -->
+    </test> <!-- TestCase1 -->
+    <test started-at="2022-06-23T00:37:14 IST" name="TestCase3" finished-at="2022-06-23T00:38:27 IST" duration-ms="73354">
+      <class name="Academy.testCase3">
+        <test-method is-config="true" signature="getInitializeTestCase()[pri:0, instance:Academy.testCase3@5a56cdac]" started-at="2022-06-23T00:37:14 IST" name="getInitializeTestCase" finished-at="2022-06-23T00:37:57 IST" duration-ms="43053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getInitializeTestCase -->
+        <test-method signature="getTestCase3()[pri:0, instance:Academy.testCase3@5a56cdac]" started-at="2022-06-23T00:37:57 IST" name="getTestCase3" finished-at="2022-06-23T00:38:07 IST" duration-ms="9856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestCase3 -->
+        <test-method is-config="true" signature="getTeardown()[pri:0, instance:Academy.testCase3@5a56cdac]" started-at="2022-06-23T00:38:07 IST" name="getTeardown" finished-at="2022-06-23T00:38:27 IST" duration-ms="20301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTeardown -->
+      </class> <!-- Academy.testCase3 -->
+    </test> <!-- TestCase3 -->
+    <test started-at="2022-06-23T00:37:14 IST" name="TestCase5" finished-at="2022-06-23T00:38:32 IST" duration-ms="78260">
+      <class name="Academy.testCase5">
+        <test-method is-config="true" signature="getInitializeTestCase()[pri:0, instance:Academy.testCase5@f0da945]" started-at="2022-06-23T00:37:14 IST" name="getInitializeTestCase" finished-at="2022-06-23T00:37:56 IST" duration-ms="42495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getInitializeTestCase -->
+        <test-method signature="getTestCase5()[pri:0, instance:Academy.testCase5@f0da945]" started-at="2022-06-23T00:37:56 IST" name="getTestCase5" finished-at="2022-06-23T00:38:09 IST" duration-ms="13163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestCase5 -->
+        <test-method is-config="true" signature="getTeardown()[pri:0, instance:Academy.testCase5@f0da945]" started-at="2022-06-23T00:38:09 IST" name="getTeardown" finished-at="2022-06-23T00:38:32 IST" duration-ms="22513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTeardown -->
+      </class> <!-- Academy.testCase5 -->
+    </test> <!-- TestCase5 -->
+    <test started-at="2022-06-23T00:37:14 IST" name="TestCase2" finished-at="2022-06-23T00:38:34 IST" duration-ms="80505">
+      <class name="Academy.testCase2">
+        <test-method is-config="true" signature="getInitializeTestCase()[pri:0, instance:Academy.testCase2@342c38f8]" started-at="2022-06-23T00:37:14 IST" name="getInitializeTestCase" finished-at="2022-06-23T00:37:56 IST" duration-ms="42699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getInitializeTestCase -->
+        <test-method signature="getTestCase2()[pri:0, instance:Academy.testCase2@342c38f8]" started-at="2022-06-23T00:37:56 IST" name="getTestCase2" finished-at="2022-06-23T00:38:23 IST" duration-ms="26230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestCase2 -->
+        <test-method is-config="true" signature="getTeardown()[pri:0, instance:Academy.testCase2@342c38f8]" started-at="2022-06-23T00:38:23 IST" name="getTeardown" finished-at="2022-06-23T00:38:34 IST" duration-ms="11557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTeardown -->
+      </class> <!-- Academy.testCase2 -->
+    </test> <!-- TestCase2 -->
+    <test started-at="2022-06-23T00:37:14 IST" name="TestCase4" finished-at="2022-06-23T00:38:44 IST" duration-ms="90231">
+      <class name="Academy.testCase4">
+        <test-method is-config="true" signature="getInitializeTestCase()[pri:0, instance:Academy.testCase4@2805d709]" started-at="2022-06-23T00:37:14 IST" name="getInitializeTestCase" finished-at="2022-06-23T00:38:05 IST" duration-ms="50929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getInitializeTestCase -->
+        <test-method signature="getTestCase4()[pri:0, instance:Academy.testCase4@2805d709]" started-at="2022-06-23T00:38:05 IST" name="getTestCase4" finished-at="2022-06-23T00:38:38 IST" duration-ms="33095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestCase4 -->
+        <test-method is-config="true" signature="getTeardown()[pri:0, instance:Academy.testCase4@2805d709]" started-at="2022-06-23T00:38:38 IST" name="getTeardown" finished-at="2022-06-23T00:38:44 IST" duration-ms="6187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTeardown -->
+      </class> <!-- Academy.testCase4 -->
+    </test> <!-- TestCase4 -->
+    <test started-at="2022-06-23T00:38:28 IST" name="TestCase6" finished-at="2022-06-23T00:38:52 IST" duration-ms="24445">
+      <class name="Academy.testCase6">
+        <test-method is-config="true" signature="getInitializeTestCase()[pri:0, instance:Academy.testCase6@1de5f259]" started-at="2022-06-23T00:38:28 IST" name="getInitializeTestCase" finished-at="2022-06-23T00:38:47 IST" duration-ms="18853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getInitializeTestCase -->
+        <test-method signature="getTestCase6()[pri:0, instance:Academy.testCase6@1de5f259]" started-at="2022-06-23T00:38:47 IST" name="getTestCase6" finished-at="2022-06-23T00:38:50 IST" duration-ms="3249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestCase6 -->
+        <test-method is-config="true" signature="getTeardown()[pri:0, instance:Academy.testCase6@1de5f259]" started-at="2022-06-23T00:38:50 IST" name="getTeardown" finished-at="2022-06-23T00:38:52 IST" duration-ms="2334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTeardown -->
+      </class> <!-- Academy.testCase6 -->
+    </test> <!-- TestCase6 -->
+    <test started-at="2022-06-23T00:38:28 IST" name="TestCase7" finished-at="2022-06-23T00:38:57 IST" duration-ms="28871">
+      <class name="Academy.testCase7">
+        <test-method is-config="true" signature="getInitializeTestCase()[pri:0, instance:Academy.testCase7@66f57048]" started-at="2022-06-23T00:38:28 IST" name="getInitializeTestCase" finished-at="2022-06-23T00:38:48 IST" duration-ms="19870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getInitializeTestCase -->
+        <test-method signature="getTestCase7()[pri:0, instance:Academy.testCase7@66f57048]" started-at="2022-06-23T00:38:48 IST" name="getTestCase7" finished-at="2022-06-23T00:38:57 IST" duration-ms="8827" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestCase7 -->
+        <test-method is-config="true" signature="getTeardown()[pri:0, instance:Academy.testCase7@66f57048]" started-at="2022-06-23T00:38:57 IST" name="getTeardown" finished-at="2022-06-23T00:38:57 IST" duration-ms="170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTeardown -->
+      </class> <!-- Academy.testCase7 -->
+    </test> <!-- TestCase7 -->
+  </suite> <!-- Suite -->
+</testng-results>
